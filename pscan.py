@@ -1,5 +1,4 @@
 
-# PROJECT B
 # Port Scanner
 # Roods Jacques
 
