@@ -1,8 +1,8 @@
 # Port-Scanner-Python- by Roods Jacques
 
-# This program is a Python program that tests the given host or IP address and it would generate a
-# list of all the TCP Open ports within the range of 1 to 1025. 
-# The standard Python’s “socket” library was implemented.
+This program is a Python program that tests the given host or IP address and it would generate a
+list of all the TCP Open ports within the range of 1 to 1025. 
+The standard Python’s “socket” library was implemented.
 
 If the Ports is open it would create a file and add an entry for each port number that 
 is open. 
